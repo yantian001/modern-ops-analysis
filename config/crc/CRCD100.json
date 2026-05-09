@@ -1,0 +1,218 @@
+﻿{
+    "crc":  1767014025,
+    "d":  [
+              {
+                  "i":  218,
+                  "en":  "Patch Starter",
+                  "ru":  "Patch Starter",
+                  "de":  "Patch Starter",
+                  "fr":  "Patch Starter",
+                  "es":  "Patch Starter",
+                  "ptBR":  "Patch Starter",
+                  "zhCN":  "Patch Starter",
+                  "ja":  "Patch Starter",
+                  "ko":  "Patch Starter",
+                  "th":  "Patch Starter",
+                  "itIT":  "Patch Starter",
+                  "tr":  "Patch Starter",
+                  "zhTW":  "Patch Starter",
+                  "pl":  "Patch Starter",
+                  "id":  "Patch Starter",
+                  "hi":  "Patch Starter"
+              },
+              {
+                  "i":  219,
+                  "en":  "Patch Bundle Pro",
+                  "ru":  "Patch Bundle Pro",
+                  "de":  "Patch Bundle Pro",
+                  "fr":  "Patch Bundle Pro",
+                  "es":  "Patch Bundle Pro",
+                  "ptBR":  "Patch Bundle Pro",
+                  "zhCN":  "Patch Bundle Pro",
+                  "ja":  "Patch Bundle Pro",
+                  "ko":  "Patch Bundle Pro",
+                  "th":  "Patch Bundle Pro",
+                  "itIT":  "Patch Bundle Pro",
+                  "tr":  "Patch Bundle Pro",
+                  "zhTW":  "Patch Bundle Pro",
+                  "pl":  "Patch Bundle Pro",
+                  "id":  "Patch Bundle Pro",
+                  "hi":  "Patch Bundle Pro"
+              },
+              {
+                  "i":  220,
+                  "en":  "Patch 4 Pack",
+                  "ru":  "Patch 4 Pack",
+                  "de":  "Patch 4 Pack",
+                  "fr":  "Patch 4 Pack",
+                  "es":  "Patch 4 Pack",
+                  "ptBR":  "Patch 4 Pack",
+                  "zhCN":  "Patch 4 Pack",
+                  "ja":  "Patch 4 Pack",
+                  "ko":  "Patch 4 Pack",
+                  "th":  "Patch 4 Pack",
+                  "itIT":  "Patch 4 Pack",
+                  "tr":  "Patch 4 Pack",
+                  "zhTW":  "Patch 4 Pack",
+                  "pl":  "Patch 4 Pack",
+                  "id":  "Patch 4 Pack",
+                  "hi":  "Patch 4 Pack"
+              },
+              {
+                  "i":  221,
+                  "en":  "Supreme Light Christmas",
+                  "ru":  "Supreme Light Christmas",
+                  "de":  "Supreme Light Christmas",
+                  "fr":  "Supreme Light Christmas",
+                  "es":  "Supreme Light Christmas",
+                  "ptBR":  "Supreme Light Christmas",
+                  "zhCN":  "Supreme Light Christmas",
+                  "ja":  "Supreme Light Christmas",
+                  "ko":  "Supreme Light Christmas",
+                  "th":  "Supreme Light Christmas",
+                  "itIT":  "Supreme Light Christmas",
+                  "tr":  "Supreme Light Christmas",
+                  "zhTW":  "Supreme Light Christmas",
+                  "pl":  "Supreme Light Christmas",
+                  "id":  "Supreme Light Christmas",
+                  "hi":  "Supreme Light Christmas"
+              },
+              {
+                  "i":  222,
+                  "en":  "Mega Pack Christmas",
+                  "ru":  "Mega Pack Christmas",
+                  "de":  "Mega Pack Christmas",
+                  "fr":  "Mega Pack Christmas",
+                  "es":  "Mega Pack Christmas",
+                  "ptBR":  "Mega Pack Christmas",
+                  "zhCN":  "Mega Pack Christmas",
+                  "ja":  "Mega Pack Christmas",
+                  "ko":  "Mega Pack Christmas",
+                  "th":  "Mega Pack Christmas",
+                  "itIT":  "Mega Pack Christmas",
+                  "tr":  "Mega Pack Christmas",
+                  "zhTW":  "Mega Pack Christmas",
+                  "pl":  "Mega Pack Christmas",
+                  "id":  "Mega Pack Christmas",
+                  "hi":  "Mega Pack Christmas"
+              },
+              {
+                  "i":  223,
+                  "en":  "Starter Pack Christmas",
+                  "ru":  "Starter Pack Christmas",
+                  "de":  "Starter Pack Christmas",
+                  "fr":  "Starter Pack Christmas",
+                  "es":  "Starter Pack Christmas",
+                  "ptBR":  "Starter Pack Christmas",
+                  "zhCN":  "Starter Pack Christmas",
+                  "ja":  "Starter Pack Christmas",
+                  "ko":  "Starter Pack Christmas",
+                  "th":  "Starter Pack Christmas",
+                  "itIT":  "Starter Pack Christmas",
+                  "tr":  "Starter Pack Christmas",
+                  "zhTW":  "Starter Pack Christmas",
+                  "pl":  "Starter Pack Christmas",
+                  "id":  "Starter Pack Christmas",
+                  "hi":  "Starter Pack Christmas"
+              },
+              {
+                  "i":  224,
+                  "en":  "Lucky Offer Christmas",
+                  "ru":  "Lucky Offer Christmas",
+                  "de":  "Lucky Offer Christmas",
+                  "fr":  "Lucky Offer Christmas",
+                  "es":  "Lucky Offer Christmas",
+                  "ptBR":  "Lucky Offer Christmas",
+                  "zhCN":  "Lucky Offer Christmas",
+                  "ja":  "Lucky Offer Christmas",
+                  "ko":  "Lucky Offer Christmas",
+                  "th":  "Lucky Offer Christmas",
+                  "itIT":  "Lucky Offer Christmas",
+                  "tr":  "Lucky Offer Christmas",
+                  "zhTW":  "Lucky Offer Christmas",
+                  "pl":  "Lucky Offer Christmas",
+                  "id":  "Lucky Offer Christmas",
+                  "hi":  "Lucky Offer Christmas"
+              },
+              {
+                  "i":  251,
+                  "en":  "Keys Pack Elite",
+                  "ru":  "Набор ключей Elite"
+              },
+              {
+                  "i":  252,
+                  "en":  "Keys Pack Supreme",
+                  "ru":  "Набор ключей Supreme"
+              },
+              {
+                  "i":  253,
+                  "en":  "Blueprints Pack Starter",
+                  "ru":  "Набор чертежей Starter"
+              },
+              {
+                  "i":  254,
+                  "en":  "Blueprints Pack Basic",
+                  "ru":  "Набор чертежей Basic"
+              },
+              {
+                  "i":  255,
+                  "en":  "Blueprints Pack Advanced",
+                  "ru":  "Набор чертежей Advanced"
+              },
+              {
+                  "i":  256,
+                  "en":  "Blueprints Pack Elite",
+                  "ru":  "Набор чертежей Elite"
+              },
+              {
+                  "i":  257,
+                  "en":  "Blueprints Pack Pro",
+                  "ru":  "Набор чертежей Pro"
+              },
+              {
+                  "i":  258,
+                  "en":  "Blueprints Pack Master",
+                  "ru":  "Набор чертежей Master"
+              },
+              {
+                  "i":  259,
+                  "en":  "Consumables Pack Pro",
+                  "ru":  "Набор расходных материалов Pro"
+              },
+              {
+                  "i":  260,
+                  "en":  "Consumables Pack Elite",
+                  "ru":  "Набор расходных материалов Elite"
+              },
+              {
+                  "i":  261,
+                  "en":  "Consumables Pack Supreme",
+                  "ru":  "Набор расходных материалов Supreme"
+              },
+              {
+                  "i":  262,
+                  "en":  "Fixed Blade Pack"
+              },
+              {
+                  "i":  263,
+                  "en":  "Fixed Blade Pack 2"
+              },
+              {
+                  "i":  264,
+                  "en":  "Fixed Blade Pack 3"
+              },
+              {
+                  "i":  265,
+                  "en":  "Bizon PRO Pack"
+              },
+              {
+                  "i":  266,
+                  "en":  "Fire and Ice Bundle"
+              },
+              {
+                  "i":  267,
+                  "en":  "Tonfa Pack"
+              }
+          ],
+    "result":  true
+}

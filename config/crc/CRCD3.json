@@ -1,0 +1,111 @@
+﻿{
+    "crc":  1771253286,
+    "d":  [
+              {
+                  "i":  2,
+                  "n":  "Foundry_day",
+                  "m":  83,
+                  "ena":  1,
+                  "nlvl":  4
+              },
+              {
+                  "i":  3,
+                  "n":  "Train_station_",
+                  "m":  91,
+                  "ena":  1,
+                  "nlvl":  2
+              },
+              {
+                  "i":  5,
+                  "n":  "CSGO_PoolWay",
+                  "m":  83,
+                  "ena":  1,
+                  "nlvl":  30
+              },
+              {
+                  "i":  7,
+                  "n":  "Fishing_spot",
+                  "m":  83,
+                  "ena":  1,
+                  "nlvl":  6
+              },
+              {
+                  "i":  10,
+                  "n":  "London",
+                  "m":  90,
+                  "ena":  1,
+                  "nlvl":  1
+              },
+              {
+                  "i":  11,
+                  "n":  "Sawmill_NEW",
+                  "m":  3,
+                  "ena":  1,
+                  "nlvl":  3
+              },
+              {
+                  "i":  15,
+                  "n":  "Building_02",
+                  "m":  91,
+                  "ena":  1,
+                  "nlvl":  5
+              },
+              {
+                  "i":  16,
+                  "n":  "Bomb_02_Ruzin",
+                  "m":  323,
+                  "ena":  1,
+                  "nlvl":  10
+              },
+              {
+                  "i":  23,
+                  "n":  "Election_day",
+                  "m":  91,
+                  "ena":  1,
+                  "nlvl":  8
+              },
+              {
+                  "i":  24,
+                  "n":  "CSGO_DistillerDM",
+                  "m":  83,
+                  "ena":  1,
+                  "nlvl":  6
+              },
+              {
+                  "i":  26,
+                  "n":  "Redbarn",
+                  "m":  83,
+                  "ena":  1,
+                  "nlvl":  10
+              },
+              {
+                  "i":  27,
+                  "n":  "Radar_Bomb",
+                  "m":  275,
+                  "ena":  1,
+                  "nlvl":  7
+              },
+              {
+                  "i":  29,
+                  "n":  "Sawmill_Bomb_NEW",
+                  "m":  347,
+                  "ena":  1,
+                  "nlvl":  5
+              },
+              {
+                  "i":  30,
+                  "n":  "Building",
+                  "m":  91,
+                  "ena":  1,
+                  "nlvl":  2
+              },
+              {
+                  "i":  31,
+                  "n":  "Bolywood",
+                  "m":  347,
+                  "ena":  1,
+                  "nlvl":  8
+              }
+          ],
+    "result":  true
+}
